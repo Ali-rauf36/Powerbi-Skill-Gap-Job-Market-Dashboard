@@ -28,5 +28,5 @@ skill categories.
 
 ## Author
 Muhammad Ali Rauf| 
-Senior Frontend Engineer | Power BI Developer
+Finance Analyst | Power BI Developer
 https://www.linkedin.com/in/muhammad-ali-rauf-743712283/
