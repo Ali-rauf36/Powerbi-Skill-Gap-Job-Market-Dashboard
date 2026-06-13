@@ -6,7 +6,8 @@ skill demand vs candidate hiring across 500 records and 6
 skill categories.
 
 ## Dashboard Preview
-<img width="877" height="493" alt="Screenshot 2026-06-13 at 20 24 26" src="https://github.com/user-attachments/assets/98916064-0414-4de0-a574-a4b5b44f63f2" />
+<img width="889" height="502" alt="Screenshot 2026-06-13 at 20 32 00" src="https://github.com/user-attachments/assets/19267f86-2d68-4b0a-a317-3b11a6c5363e" />
+
 
 ## Features
 - Dark theme canvas with custom color palette
